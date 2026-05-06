@@ -1,0 +1,86 @@
+[
+  {
+    "user_prompt_id": "0",
+    "content": "You are now a reviewer for IEEE S&P, tasked with reviewing the paper in the uploaded PDF. Please summarize the paper's main content, as well as its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "1",
+    "content": "Acting as a IEEE S&P reviewer, please evaluate the provided PDF by summarizing its core contributions and identifying its primary pros and cons."
+  },
+  {
+    "user_prompt_id": "2",
+    "content": "As a member of the IEEE S&P program committee, review the uploaded document. Provide a summary of the work and list its specific merits and flaws."
+  },
+  {
+    "user_prompt_id": "3",
+    "content": "You are assigned to review the attached paper for IEEE S&P. Please outline the paper's main points and offer a critique of its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "4",
+    "content": "Please assume the role of a IEEE S&P referee for the uploaded file. Summarize the research and detail its significant advantages and limitations."
+  },
+  {
+    "user_prompt_id": "5",
+    "content": "Your task is to review this PDF for IEEE S&P. Summarize the manuscript's findings and evaluate both its positive attributes and its shortcomings."
+  },
+  {
+    "user_prompt_id": "6",
+    "content": "Working as a reviewer for IEEE S&P, please analyze the uploaded paper. Summarize its contents and explain where it succeeds and where it fails."
+  },
+  {
+    "user_prompt_id": "7",
+    "content": "Review the paper in the PDF for IEEE S&P. You should provide an overview of the content along with a breakdown of its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "8",
+    "content": "In your capacity as a IEEE S&P reviewer, examine the attached PDF. Summarize the central theme and discuss the paper's high points and deficiencies."
+  },
+  {
+    "user_prompt_id": "9",
+    "content": "You have been appointed as a IEEE S&P reviewer for this submission. Please give a summary of the paper and list its various strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "10",
+    "content": "Serving as a IEEE S&P peer reviewer, read the uploaded PDF and summarize its findings while highlighting its technical strengths and major weaknesses."
+  },
+  {
+    "user_prompt_id": "11",
+    "content": "For your IEEE S&P review task, look over the uploaded paper. Summarize the general content and specify what the paper does well versus its faults."
+  },
+  {
+    "user_prompt_id": "12",
+    "content": "Please review the PDF for IEEE S&P by summarizing the main argument and detailing the paper's strengths as well as its weaknesses."
+  },
+  {
+    "user_prompt_id": "13",
+    "content": "As you review this paper for IEEE S&P, kindly provide a summary of the work and a balanced assessment of its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "14",
+    "content": "You're now reviewing for IEEE S&P. Please summarize the attached PDF's content and critique both the strengths and weaknesses of the research."
+  },
+  {
+    "user_prompt_id": "15",
+    "content": "Take on the role of a reviewer for IEEE S&P regarding the uploaded PDF. Offer a summary of the text and evaluate its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "16",
+    "content": "Tasked with a IEEE S&P review, please condense the main ideas of the uploaded paper and list its favorable aspects and its flaws."
+  },
+  {
+    "user_prompt_id": "17",
+    "content": "You are reviewing the provided PDF for IEEE S&P. Provide a synopsis of the paper's content and a list of its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "18",
+    "content": "As a IEEE S&P reviewer, your goal is to summarize the uploaded paper and provide a critical review of its strengths and weaknesses."
+  },
+  {
+    "user_prompt_id": "19",
+    "content": "Acting as a referee for IEEE S&P, summarize the document provided in the PDF and weigh its strengths against its weaknesses."
+  },
+  {
+    "user_prompt_id": "20",
+    "content": "Conduct a review for IEEE S&P on the uploaded paper. Summarize what it is about and identify its key strengths and weaknesses."
+  }
+]

@@ -1,9 +1,5 @@
 <h1>IntraGuard</h1>
 
-- Note 1: Because Anonymous GitHub does not support files larger than 8 MB, we provide only a small number of representative samples in the  `/data` directory.
-
-- Note 2: We have provided **Additional Materials** via HotCRP (within the 600 MB upload limit) that include 180 unmodified and protected manuscripts, representing 7 defense methods and 12 venues.
-
 <h2>Environment Setup</h2>
 
 1. **Transfer Environment File:**

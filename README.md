@@ -61,6 +61,8 @@ The comprehensive prompt pool is detailed in `./configuration/attack_prompt_pool
 | Psychol. Rev. | Psychological Review | w/ | Double | 21.7 | 1.09 |
 | T-ITS | IEEE Transactions on Intelligent Transportation Systems | w/ | Double | 13.8 | 2.51 |
 
+- We provide a subset of the dataset, which includes the original manuscripts and those processed using seven different methods.
+
 - To simulate both single-blind and double-blind review paradigms, we manage author and affiliation metadata across our dataset. For the USENIX Security subset, identifying information are manually redacted. In contrast, manuscripts sourced from ICLR via OpenReview are natively anonymized, requiring no further sanitization.
 
 - Parameters for *Layer Cake* (such as *target width* and *tolerance*) are specified in `./configuration/venue_config.py`. Practically, setting these configurations is a straightforward task requiring zero technical expertise. The committee can manually establish them based solely on the PDF templates.
